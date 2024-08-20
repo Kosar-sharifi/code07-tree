@@ -1,5 +1,3 @@
-#درخت محصول
-
 Patrons = input('Patrons?')
 if Patrons == 'full':
     waitEstimate = float(input('waitEstimate?'))
